@@ -1,5 +1,6 @@
-# Título
+# Imersão DEV | Plataforma Spotify
 
 ## Descriçao
+Este projeto, foi feito com intuito de aprendizagem
 
-# Instrucao de instalação
+# Instrução de instalação
